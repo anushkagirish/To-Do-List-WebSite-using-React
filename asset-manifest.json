@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/To-Do-List-WebSite-using-React/static/css/main.5910ac33.css",
+    "main.js": "/To-Do-List-WebSite-using-React/static/js/main.bc80811e.js",
+    "static/js/787.34d05ddd.chunk.js": "/To-Do-List-WebSite-using-React/static/js/787.34d05ddd.chunk.js",
+    "static/media/bg-image-ferns.avif": "/To-Do-List-WebSite-using-React/static/media/bg-image-ferns.13416bb92a992c0d97f6.avif",
+    "index.html": "/To-Do-List-WebSite-using-React/index.html",
+    "main.5910ac33.css.map": "/To-Do-List-WebSite-using-React/static/css/main.5910ac33.css.map",
+    "main.bc80811e.js.map": "/To-Do-List-WebSite-using-React/static/js/main.bc80811e.js.map",
+    "787.34d05ddd.chunk.js.map": "/To-Do-List-WebSite-using-React/static/js/787.34d05ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5910ac33.css",
+    "static/js/main.bc80811e.js"
+  ]
+}
